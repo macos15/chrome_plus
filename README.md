@@ -8,4 +8,5 @@
 
 地址：
 https://github.com/macos15/chrome_plus/actions/runs/6387269117
+
 用户数据名字，目录和浏览器原版一致。
